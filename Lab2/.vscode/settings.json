@@ -1,0 +1,11 @@
+{
+    "cSpell.words": [
+        "grandp",
+        "Prdct"
+    ],
+    "files.associations": {
+        "stdio.h": "c",
+        "avltree.h": "c",
+        "btree.h": "c"
+    }
+}
